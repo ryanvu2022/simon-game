@@ -1,0 +1,58 @@
+body {
+  text-align: center;
+  background-color: #247881;
+}
+
+h1 {
+  font-family: 'Kanit', cursive;
+  font-size: 8rem;
+  color: #FEF2BF;
+}
+
+#level-title {
+  font-family: 'Kanit', cursive;
+  font-size: 5rem;
+  color: #FEF2BF;
+}
+
+.container {
+  display: block;
+  width: 70%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: #FF6464;
+  opacity: 0.8;
+}
+
+.purple {
+  background-color: #A149FA;
+}
+
+.green {
+  background-color: #3EC70B;
+}
+
+.blue {
+  background-color: #3B44F6;
+}
+
+.yellow {
+  background-color: #F7EC09;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: cyan;
+}
